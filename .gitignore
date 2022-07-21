@@ -1,0 +1,16 @@
+cache
+out
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+mumbai-deployment.json
+mainnet-deployment.json
+
+#Hardhat files
+cache
+artifacts
